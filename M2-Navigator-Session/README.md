@@ -1,5 +1,9 @@
 # Module 2
 
+*Explain a complex technical concept in 60 seconds.*
+
+**Target Skills: Verbal Precision, Concise Summarization, Accessible Communication**
+
 ## Artifact: 60-Second Demo
 
 **Video Link:** https://youtu.be/q_JqoBu6ejs
