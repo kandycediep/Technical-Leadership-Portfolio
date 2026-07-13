@@ -1,5 +1,9 @@
 # Module 3
 
+*Formally review code submitted by a peer.*
+
+**Target Skills: Code Review, Feedback Delivery**
+
 ## Artifact: Peer Code Review
 
 **GitHub PR Link:** https://github.com/anyaiolii/tla-mod3/pull/1
