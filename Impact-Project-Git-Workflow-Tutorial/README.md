@@ -31,3 +31,6 @@ The tutorial includes a README.md overview and a Git-Workflow-Tutorial.md walkth
 
 ## Reflection
 
+After sharing the tutorial with a couple interns and individuals new to this workflow, I learned that the step-by-step workflow helped make Git collaboration feel less intimidating for new developers. One person mentioned how they appreciated the explanation of why we were doing each command and also the checkpoints after every step to ensure people aren't getting lost in the middle. 
+
+The biggest lesson I learned about leading was that effective technical resources are not just about explaining concepts, but also having the individual actually practice these skills through interactive, hands-on activities. 
