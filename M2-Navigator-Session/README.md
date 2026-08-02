@@ -20,8 +20,6 @@ For the 60-Second Demo, I selected Binary Search Trees and planned a concise exp
 
 In this demo, I explained how Binary Search Trees (BST) worked. I walked through the key properties and steps to verbally describe how the process works. The explanation of a BST landed  cleanly because I broke it down into smaller steps and also provided an example to accompany my explanation.
 
----
-
 ## Reflection: Navigator Session
 
 ### 1. Harder Role
