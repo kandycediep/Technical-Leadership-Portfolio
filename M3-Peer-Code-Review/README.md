@@ -4,13 +4,25 @@
 
 **Target Skills: Code Review, Feedback Delivery**
 
-## Artifact: Peer Code Review
+## Task
+
+Formally review a peer’s code submission through a GitHub pull request. The goal was to practice providing constructive feedback using the N/W/WT framework while identifying strengths, areas for improvement, and questions about the code.
+
+## Process
+
+I reviewed my partner’s pull request by reading through the code, understanding the overall approach, and leaving inline comments using the N/W/WT structure. I focused on making feedback specific and actionable by explaining what I noticed, what worked well, and what I wondered about or would try differently. I also provided a summary review highlighting strengths and possible areas for improvement.
+
+## Deliverable
+
+### Peer Code Review
 
 **GitHub PR Link:** https://github.com/anyaiolii/tla-mod3/pull/1
 
-I completed a code review on a peer's pull request. I focused on giving feedback using the N/W/WT structure.
-
----
+## Screenshots of My Comments
+![Review Comment 1](review-comment-1.png)
+![Review Comment 2](review-comment-2.png)
+![Review Comment 3](review-comment-3.png)
+![Summary Comment](summary-comment.png)
 
 ## Reflection
 
@@ -21,11 +33,3 @@ The hardest feedback to write for me was the comment on line 54 because it was a
 ### 2. What I Would Change Next Time
 
 Next time, I would spend more time reading through and understanding the code so I have the big picture in my mind before commenting. This would help avoid making similar observations and save time from having to go back and revise comments I had already written.
-
----
-
-## Screenshots of My Comments
-![Review Comment 1](review-comment-1.png)
-![Review Comment 2](review-comment-2.png)
-![Review Comment 3](review-comment-3.png)
-![Summary Comment](summary-comment.png)
