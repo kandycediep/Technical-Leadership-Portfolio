@@ -4,7 +4,17 @@
 
 **Target Skills: Verbal Precision, Concise Summarization, Accessible Communication**
 
-## Artifact: 60-Second Demo
+## Task
+
+Practice communicating technical ideas clearly through both individual explanation and collaborative problem-solving. This module included creating a 60-second technical concept explanation and participating in a pair programming session where I practiced the Navigator role.
+
+## Process
+
+For the 60-Second Demo, I selected Binary Search Trees and planned a concise explanation focused on the definition, key properties, and an example. I practiced communicating the concept without notes while being intentional about pauses and avoiding filler words. For the Navigator Session, I pair programmed on a call with a partner through a coding problem by alternating roles and practicing how to guide problem-solving through questions, observations, and discussion rather than taking over.
+
+## Deliverable
+
+### 60-Second Technical Concept Demo
 
 **Video Link:** https://youtu.be/q_JqoBu6ejs
 
