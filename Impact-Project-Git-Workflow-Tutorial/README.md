@@ -16,7 +16,7 @@ I first reflected on my own experience learning Git workflows and identified the
 
 ### Git/GitHub Workflow Interactive Tutorial
 
-**Repository Link:** [https://github.com/kandycediep/Git-Workflow-Practice](url)
+**Repository Link:** [(https://github.com/kandycediep/Impact-Project-Git-Workflow-Practice)](https://github.com/kandycediep/Impact-Project-Git-Workflow-Practice)
 
 This hands-on tutorial guides new developers through the core collaboration workflow:
 
